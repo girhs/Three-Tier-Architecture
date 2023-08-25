@@ -95,3 +95,4 @@ A good database choice affects data availability, read/write speed, the amount o
 As a final step, it is advisable to connect to web, application and database servers to confirm that their access is as per your requirements.
 Conclusion :
 As shown in the Architectural Diagram, I have created a highly available, resilient, reliable, and secure architecture. The remaining steps will transform this project from a learning environment to a production application.
+![image](https://github.com/girhs/Three-Tier-Architecture/assets/93239323/59dc0759-5191-476c-854b-59f423b9ee38)
